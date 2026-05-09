@@ -703,3 +703,7 @@ MIT - See [LICENSE](LICENSE) file for details.
   <strong>Built with ❤️ for the cloding community</strong><br>
   <em>Transforming AI coding from conversation into software engineering</em>
 </p>
+
+<!-- AUTO:footer -->
+Managed by [policy-orchestrator](https://github.com/jthorvaldur/policy-orchestrator). Category: ai-agents. 299 commits, last updated 6 minutes ago.
+<!-- /AUTO:footer -->
