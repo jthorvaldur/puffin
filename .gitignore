@@ -33,3 +33,7 @@ projects/*.json
 
 test-dsl/
 tmp/start-with-deepagents.sh
+
+# Python
+__pycache__/
+*.pyc
