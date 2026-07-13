@@ -1,7 +1,5 @@
 # puffin
 
-> Read `INTENT.md` before acting. It governs all work in this repo.
-
 ## Overview
 Electron GUI for Claude Code adding structured software engineering workflow: Central Reasoning Engine (CRE), automated sprint orchestration, Excalidraw AI diagrams, and Code Model memory plugin. Transforms conversational AI coding into deterministic, traceable development.
 
